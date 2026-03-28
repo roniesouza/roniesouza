@@ -1,23 +1,31 @@
 ## 🙋‍♂️ Sobre mim
-Olá! Meu nome é Ronie Souza, tenho 34 anos e sou analista de BI. Trabalhei por 9 anos no Hospital Mboi Mirim, onde a análise de dados era parte essencial da gestão do almoxarifado, atuando como líder e analista de estoque. Nos últimos 5 anos, estou trabalhando integralmente como analista de BI.
 
-Atualmente, meu foco está em **Engenharia de Dados**, desenvolvendo pipelines com **Spark e Delta Lake**, aplicando conceitos de **modelagem e arquiteturas modernas** (como *Medalhão* e *Lakehouse*). Estou estudando e aplicando boas práticas com **Databricks**, evoluindo em **CI/CD**, metodologias ágeis e práticas de versionamento e reprodutibilidade de pipelines em múltiplos ambientes.  
+Olá! Meu nome é **Ronie Souza**, tenho 35 anos e sou analista de BI com atuação crescente em **Engenharia de Dados**.
 
-Sou também um **entusiasta de código livre** e de **stacks que promovem o desenvolvimento aberto pela comunidade**. Acredito no potencial transformador das comunidades, onde cada membro pode aprender, compartilhar conhecimento e crescer junto.  
+Tenho 9 anos de experiência no Hospital Mboi Mirim, onde atuei com análise de dados aplicada à gestão de almoxarifado, incluindo liderança e controle de estoque. Nos últimos 5 anos, trabalho integralmente como analista de BI e, nesse período, fui direcionado para Engenharia de Dados, onde hoje concentro maior parte dos meus esforços — sem deixar de atuar na construção de relatórios e dashboards.
 
-Tenho experiência em ETL, construção de datamarts e data warehouses, relatórios e dashboards, além de **auxiliar equipes de desenvolvimento e analistas na remodelagem de queries e tuning de banco de dados visando performance**.
+Atuo no desenvolvimento de pipelines com **Spark e Delta Lake**, aplicando conceitos como *Arquitetura Medalhão* e *Lakehouse*, além de práticas de **CI/CD**, versionamento e reprodutibilidade.
 
-### 🧰 Tecnologias com que trabalho
-- 🛠 SQL (DuckDB, Postgres, MySQL, Oracle, Firebird, SQL Server, SQLite)  
-- 🐍 Python  
-- ⚡ Spark e Delta Lake  
-- ☁️ Databricks  
-- 📊 Power BI  
-- 🔄 Pentaho Data Integration e Apache Hop  
-- 🐧 Linux  
-- 🍃 MongoDB  
-- 🐳 Docker  
-- 🔧 CI/CD e versionamento de código  
+Tenho uma abordagem pragmática em relação à arquitetura de dados: acredito que, na maioria dos cenários, soluções mais simples como **Apache Hop**, **DuckDB** e ETL tradicional atendem muito bem às demandas, evitando complexidade desnecessária. Tecnologias como Spark são fundamentais, mas devem ser utilizadas de forma estratégica, em contextos onde realmente agregam valor.
+
+Tenho experiência em ETL, datamarts, data warehouses, dashboards e otimização de queries, apoiando equipes na melhoria de performance e qualidade de dados. Sou entusiasta de código livre e aprendizado colaborativo.
+
+---
+
+## 🧰 Tecnologias
+
+* SQL (DuckDB, Postgres, MySQL, Oracle, Firebird, SQL Server, SQLite)
+* Python
+* Spark e Delta Lake
+* Power BI
+* Apache Hop e Pentaho Data Integration
+* Linux
+* MongoDB
+* Docker
+* CI/CD e versionamento
+
+---
 
 ## 📫 Contato
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-ronie--souza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronie-souza)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-ronie--souza-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/ronie-souza)
